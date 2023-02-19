@@ -10,7 +10,7 @@
     "128": "images/icon-128.png"
   },
   "action": {
-    "deafult_popup": "popup.html"
+    "default_popup": "popup.html"
   },
   "host_permissions": [
     "https://developer.chrome.com/*"
